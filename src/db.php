@@ -1,5 +1,5 @@
 <?php
-// เชื่อมต่อฐานข้อมูล SQLite (ไฟล์เดียว ไม่ต้องติดตั้ง MySQL)
+
 function db(): PDO {
     static $pdo = null;
     if ($pdo === null) {

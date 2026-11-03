@@ -1,6 +1,6 @@
 <?php
 session_start();
-// รหัสผ่านแอดมิน (ตัวอย่าง) — ควรเปลี่ยนก่อนใช้งานจริง
+
 const ADMIN_USER = 'pucow';
 const ADMIN_PASS_HASH_PLAIN = 'pucow1234';
 

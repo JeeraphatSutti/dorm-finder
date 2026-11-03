@@ -1,4 +1,3 @@
-// ค้นหาแบบ live: พิมพ์/เลือกแล้วผลอัปเดตทันทีโดยไม่โหลดหน้าใหม่
 interface Dorm {
   id: number;
   name: string;
